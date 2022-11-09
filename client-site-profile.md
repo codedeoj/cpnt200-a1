@@ -15,6 +15,12 @@ THINKPUP is a clothing brand company that sells high-quality, attractive apparel
 
 The brand aims to be one of the best online destination for high-quality and modern clothing for dog owners around the world.
 
+**Market Understanding**
+
+Think Pup has nailed its niche with shirts illustrating specific breeds of dogs. The brand speaks dog lovers’ minds by naming those shirts creatively like “Corgifornia”, which appeals to corgi owners in California. That’s a good way of digging deep into the niche!
+
+Good social media following: Just by posting adorable dog images, the shop drives tons of traffic for its page. They invite people to share pics of their pup on Instagram and use the hashtag #thinkpup for their post. This is a great way for the brand to get promoted.
+
 ## Sitemap
 - [Figjam Link](https://www.figma.com/file/d11lqFey5llq4wJBhmNhv0/Untitled?node-id=0%3A1)
 
@@ -25,7 +31,7 @@ The brand aims to be one of the best online destination for high-quality and mod
   - Hero: Components
     - Title: Small Text
     - Image: Media
-    - ![]()
+![](img/thinkpup.png)
 #### About
   - Fields:
     - Title: Small Text
@@ -40,7 +46,7 @@ The brand aims to be one of the best online destination for high-quality and mod
     - Price: Number
     - Description: large Text
     - Image: Media
-    - - ![]()
+![](img/products.png)
 
 #### Blog
   - Fields:
@@ -48,6 +54,8 @@ The brand aims to be one of the best online destination for high-quality and mod
     - Post Date: Date
     - Image: Media
     - Description: Rich Text
+
+![](img/blog.png)
 
 #### Clearance
   - Fields:
